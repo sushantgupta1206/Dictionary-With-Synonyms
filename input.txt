@@ -1,0 +1,16 @@
+addWord:happy:the world is a beautiful place to stay 
+addWord:sad:the world is a bad place to live in
+addWord:suhant:very quite
+addSynonym:happy:joy
+addSynonym:happy:gay
+lookupWord:happy
+lookupSynonyms:joy
+addWord:data:facts and statistics collected to gether for analysis 
+addWord:facts:truth related to data
+addWord:information:large pieces of data
+addSynonym:data:facts
+addSynonym:data:information
+addSynonym:facts:details
+addSynonym:facts:figures
+lookupWord:facts
+lookupSynonyms:figures
